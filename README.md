@@ -28,7 +28,7 @@ My Data Science projects and learning journey
 
 ## 📂 My Projects
 
-🔹 Projects will be updated soon...
+🔹 Project 1:-Titanic Survival Prediction
 
 ---
 
